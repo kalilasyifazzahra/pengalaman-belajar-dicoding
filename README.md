@@ -10,3 +10,5 @@ belajar kelas logika pemrograman (progres 100%)
 * belajar algoritma
 * belajar 7 jenis gerbang logika
 * belajar 5 elemen dalam computational thinking
+
+**a** *cat* meo
