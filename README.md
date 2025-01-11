@@ -1,3 +1,3 @@
 # pengalaman-belajar-dicoding
 
-**belajar-branch**
+why soooo hard la belum paham aku le cara mergeeeee!
